@@ -1,9 +1,10 @@
 ### Hi there 👋
 ## Kumusta, Mundo! 🌏
 
-I am **Jan**!<br>
-I am a graduate of Computer Science with keen interest on UI/UX Design and Frontend Development. <br>
-✍ Other than programming, I love reading and writing. Other than writing formal and technical documents, I often spend my time formulating stories or indulging into my creativity.
+### I am Jan!
+👩‍🎓 I am a graduate of Computer Science with keen interest on UI/UX Design and Frontend Development. <br>
+✍ Other than programming, I love reading and writing. I often spend my time formulating stories or indulging into my creativity other than writing formal and technical documents.
+
 <!--
 **kibalias/kibalias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
