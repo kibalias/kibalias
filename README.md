@@ -2,7 +2,8 @@
 ## Kumusta, Mundo! 🌏
 
 ### I am Jan!
-👩‍🎓 I am a graduate of Computer Science with keen interest on UI/UX Design and Frontend Development. <br>
+👩‍🎓 I am a graduate of Computer Science with keen interest on UI/UX Design and Frontend Development. Also has growing enthusiasm with quality assurance and data. <br>
+👩‍💻 I am also a **web developer** that mainly focuses on web development bringing forth system solutions for different business requirements.
 ✍ Other than programming, I love reading and writing. I often spend my time formulating stories or indulging into my creativity other than writing formal and technical documents.
 
 <!--
